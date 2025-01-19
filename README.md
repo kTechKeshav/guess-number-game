@@ -30,7 +30,7 @@ The **Number Guess Game** is an interactive, fun-filled application where player
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/guess-number-game.git
+    git clone https://github.com/kTechKeshav/guess-number-game.git
     cd guess-number-game
     ```
 
@@ -86,13 +86,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Acknowledgments
 Special thanks to the developers of **React**, **Recoil**, and **Tailwind CSS** for their excellent tools that made this project possible.
-
----
-
-## Screenshots
-
-![Game Interface](https://via.placeholder.com/800x400?text=Game+Interface)
-
-![Victory Screen](https://via.placeholder.com/800x400?text=Victory+Screen)
-
-![Game Over](https://via.placeholder.com/800x400?text=Game+Over)
