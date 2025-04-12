@@ -4,6 +4,7 @@
 The **Number Guess Game** is an interactive, fun-filled application where players must guess a randomly generated number between 1 and 50. With each guess, the app provides feedback on whether to guess higher or lower. Players have a limited number of attempts, and the game tracks their current score and high score. The game also features dynamic UI updates, such as color changes to indicate win, loss, or ongoing status.
 
 ---
+### Live Demo => https://random-number-guessgame.netlify.app/
 
 ## Features
 
